@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Slayercat</copyright>
-        <lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%AF%BC%E8%88%AA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%AF%BC%E8%88%AA/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>置顶但置不了顶</title>
         <link>http://localhost:1313/p/guide/</link>
-        <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/guide/</guid>
         <description>&lt;img src="http://localhost:1313/p/guide/20250117213328.png" alt="Featured image of post 置顶但置不了顶" /&gt;&lt;p&gt;&lt;strong&gt;致我。互联网是真的没有记忆，曾经以为会被长期保存的记录，早已经绝大部分流失。
@@ -24,7 +24,7 @@
         
         <guid>http://localhost:1313/p/guide2/</guid>
         <description>&lt;img src="http://localhost:1313/p/guide2/56237a5c849bbe4a2b4c4958cb58ce3671e413c4.png" alt="Featured image of post To do" /&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 1.Ro搬迁&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 1.Ro搬迁&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 2.网络有趣圣物收集&lt;/li&gt;
 &lt;/ul&gt;
 </description>
